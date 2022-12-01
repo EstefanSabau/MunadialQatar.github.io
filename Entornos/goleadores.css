@@ -1,0 +1,51 @@
+*{
+    margin: 0 px;
+    padding: 0 px;
+    background-color: rgb(141,28,61)
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+section table{
+    line-height: 50px;
+
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#grua{
+    width: 27%;
+    float: left;
+    margin-top: 4%;
+    margin-left: 4%;
+
+}
+#derecha{
+    width: 27%;
+    float: right;
+    margin-top: 4%;
+    margin-left: 4%;
+
+}
+.clearfix{
+    clear: both;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 50px;
+    color: rgb(56, 59, 247);
+    border: 3px solid black;
+}
+table{
+    float: initial;
+    width: 38%;
+    float: left;
+}
+footer{
+    text-align: center;
+    
+}
